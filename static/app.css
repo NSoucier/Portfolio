@@ -32,7 +32,7 @@ body {
     transform-origin: center center;
     background-image: linear-gradient(to right top,#6c22bd,#8b25bb,#a52bb9,#bc34b7,#d040b5,#e645a5,#f55195,#ff6188,#ff796e,#ff965b,#f5b255,#e1cd60);
     position: absolute;
-    left: 50%;
+    left: 70%;
     border-radius: 20px;
     transform: skewY(-15deg) translate(-50%,-50%) scale(.7) translateZ(0);
     pointer-events: none;
